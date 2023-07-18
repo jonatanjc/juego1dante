@@ -28,13 +28,13 @@ html, body {
 .centered-text h1 {
   font-size: 100px;
   margin-bottom: 10px;
-  color: rgb(221, 124, 124);
+  color: rgb(193, 0, 0);
 }
 
 .centered-text h2 {
   font-size: 30px;
   margin-top: 10px;
-  color: rgb(71, 11, 11);
+  color: rgb(0, 0, 0);
 }
 
 .imagen-principal {
@@ -57,7 +57,7 @@ html, body {
   bottom: 5px;
   right: 10px;
   padding: 10px 20px;
-  color: #97969b;
+  color: #c6c5cc;
   text-decoration: wavy;
   border-bottom: #2f068f;
   z-index: 2;
@@ -87,7 +87,7 @@ html, body {
       height: 0;
       border-left: 50px solid transparent;
       border-right: 50px solid transparent;
-      border-bottom: 100px solid #8f0808;
+      border-bottom: 100px solid #380404;
       transition: width 2s, height 1s;
   }
 
@@ -101,7 +101,7 @@ html, body {
         top: 30%; 
         left: 50%; 
         transform: translate(-50%, -50%); 
-        color: rgb(128, 118, 118);
+        color: rgb(255, 0, 0);
         font-weight: bold;
     }
 
